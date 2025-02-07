@@ -39,10 +39,7 @@ L'application est très simple :
 
 ## Comment l'utiliser ? 🚀
 
-Si tu veux essayer l'application sur ton ordinateur, voici comment faire :
-
-1.  **Avant de commencer :** Il faut que tu aies installé un outil spécial appelé "Flutter" sur ton ordinateur. C'est un peu comme un kit de construction pour les applications. Tu peux trouver comment l'installer ici : [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
-2.  **Récupérer l'application :** Tu dois "cloner" l'application. C'est comme copier un dossier sur ton ordinateur. Pour ça, tu dois utiliser une commande dans ton terminal :
+une version web est disponible sur [namer.app](https://diaby-mamadou.vercel.app/).
 
 ## Idées pour plus tard 💡
 
