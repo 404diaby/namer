@@ -13,6 +13,19 @@ Bienvenue sur Namer App ! C'est une petite application amusante qui t'aide à tr
 *   **Garde tes préférés !** Tu as trouvé une paire de mots que tu adores ? Clique sur le petit cœur pour l'ajouter à tes favoris.
 *   **Une belle présentation :** L'application est jolie et facile à utiliser.
 
+
+
+## Preview
+
+
+![Preview desktop](/img/1.png) k
+![Preview desktop](/img/2.png)
+
+![Preview mobile](/img/3.png)
+![Preview mobile](/img/4.png)
+
+
+
 ## Comment ça marche ? ⚙️
 
 L'application est très simple :
