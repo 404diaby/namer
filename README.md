@@ -17,9 +17,10 @@ Bienvenue sur Namer App ! C'est une petite application amusante qui t'aide à tr
 
 ## Preview
 
+<img width="278" alt="preview desktop" src="/img/1.png" />
 
-![Preview desktop](/img/1.png) k
-![Preview desktop](/img/2.png)
+<img width="278" alt="preview desktop" src="/img/2.png" />
+
 
 ![Preview mobile](/img/3.png)
 ![Preview mobile](/img/4.png)
