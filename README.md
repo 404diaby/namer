@@ -39,7 +39,7 @@ L'application est très simple :
 
 ## Comment l'utiliser ? 🚀
 
-une version web est disponible sur [namer.app](https://diaby-mamadou.vercel.app/).
+L'application n'est pas encore dispo sur le Play Store
 
 ## Idées pour plus tard 💡
 
